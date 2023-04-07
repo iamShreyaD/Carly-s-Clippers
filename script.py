@@ -1,8 +1,10 @@
+# -----------------------------------------------------------------------------------------------------------
 # Shreya B Deshpande
 # This project is done through Codecademy
 # The project presentes three lists: hairstyles (names of the haircuts), prices (price of each hairstyle), 
 # last_week (number of purchases for each hairstyle). Also, the average price, new price, total revenue,
 # average daily revenue, and cuts under 30 get printed.
+# -----------------------------------------------------------------------------------------------------------
 
 hairstyles = ["bouffant", "pixie", "dreadlocks", "crew", "bowl", "bob", "mohawk", "flattop"]
 
